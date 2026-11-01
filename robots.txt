@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tekken3apk.vercel.app/sitemap.xml
+Sitemap: https://tekken3apk-xi.vercel.app/sitemap.xml
